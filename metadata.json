@@ -1,0 +1,6 @@
+{
+  "name": "Presidência BR",
+  "description": "Simulador de Governo & Presidência com dinâmica macroeconômica, fiscal, política e social realista.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
